@@ -20,9 +20,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-image: url("newbackground.jpg");
-  background-size: 1650px;
-  background-attachment: fixed;
+  background-color: transparent;
 }
 
 .title {
@@ -54,6 +52,7 @@
   10% {
     background-color: #e2e3e9;
   }
+
   20% {
     background-color: #e2e3e9;
   }
