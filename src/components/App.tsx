@@ -80,10 +80,6 @@ export default function App() {
             />
           </div>
         </div>
-
-        <hr className={styles.rule} />
-
-        <DocumentationCards />
       </main>
     </div>
   )
